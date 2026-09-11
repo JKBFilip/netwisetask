@@ -1,6 +1,6 @@
 # CatFact Integration Service
 
-[![CI Pipeline](https://github.com/JKBFilip/netwisetask/actions/workflows/ci.yml/badge.svg)](https://github.com/TWOJ_NICK/NAZWA_REPOZYTORIUM/actions/workflows/ci.yml)
+[![CI Pipeline](https://github.com/JKBFilip/netwisetask/actions/workflows/ci.yml/badge.svg)](https://github.com/JKBFilip/netwisetask/actions/workflows/ci.yml)
 
 Profesjonalna usługa w tle (Worker Service) integrująca dane z zewnętrznego REST API z lokalnym systemem plików oraz chmurą Microsoft Azure. Projekt zrealizowany w oparciu o zasady Clean Architecture oraz wzorce projektowe dla aplikacji chmurowych.
 
