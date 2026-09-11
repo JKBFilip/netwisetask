@@ -20,7 +20,7 @@ Projekt został podzielony na trzy warstwy w duchu Separation of Concerns:
 2. **Infrastructure:** Logika połączeń sieciowych (klient HTTP) oraz I/O (zapis na dysk, integracja z Azure Blob).
 3. **Worker:** Punkt wejścia aplikacji, konfiguracja kontenera IoC i orkiestracja zadań.
 
-Dodatkowo w folderze `/docs` znajduje się sformalizowany raport architektoniczny w formacie PDF (wygenerowany w systemie LaTeX).
+Dodatkowo w folderze `/docs` znajduje się rozszerzona dokumentacja architektoniczna w pliku `readme_dokumentacja.md`.
 
 ## Uruchomienie projektu (Docker)
 
